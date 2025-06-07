@@ -1,0 +1,11 @@
+# Ignorar node_modules em todos os micros
+**/node_modules
+
+# Ignorar builds
+**/dist
+
+# Outras configurações comuns
+.DS_Store
+.vscode
+npm-debug.log
+yarn-error.log
