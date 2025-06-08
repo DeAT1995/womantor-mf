@@ -3,6 +3,7 @@
 
 # Ignorar builds
 **/dist
+**/.angular/cache/
 
 # Outras configurações comuns
 .DS_Store
