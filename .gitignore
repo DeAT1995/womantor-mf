@@ -10,6 +10,10 @@ shell/.angular/cache
 **/.angular/cache/
 shell/.angular/cache/
 auth/.angular/cache/
+.angular/
+**/.angular/
+
+
 
 # Outras configurações comuns
 .DS_Store
