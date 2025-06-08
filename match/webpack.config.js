@@ -6,7 +6,7 @@ const {
 module.exports = withModuleFederationPlugin({
   name: "match",
   exposes: {
-    "./MatchComponent": "./src/app/pages/matchmaking/matchmaking.ts",
+    "./MatchmakingComponent": "./src/app/pages/matchmaking/matchmaking.ts",
   },
   shared: {
     ...shareAll({
